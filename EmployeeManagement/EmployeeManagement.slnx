@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Employee.DAL/Employee.DAL.csproj" />
+  <Project Path="EmployeeAPI/EmployeeAPI.csproj" />
+</Solution>
